@@ -1,0 +1,21 @@
+{
+  "name": "danx-icon",
+  "version": "1.0.0",
+  "description": "A collection of SVG icons from popular icon libraries",
+  "main": "index.ts",
+  "module": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flytedan/danx-icon"
+  },
+  "author": {
+    "name": "Daniel Newman",
+    "email": "newms87@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
